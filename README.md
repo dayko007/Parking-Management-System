@@ -31,13 +31,4 @@ The Parking Management System is a C# Object-Oriented Programming project that m
 * Object-Oriented Programming (OOP)
 * Visual Studio
 
-## How to Run
 
-1. Download or clone this repository.
-2. Open the project in Visual Studio.
-3. Build and run the project.
-4. Use the console menu to park vehicles, check out vehicles, and display parking spaces.
-
-## Author
-
-Dayanch
