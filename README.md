@@ -21,11 +21,5 @@ The Parking Management System is a C# Object-Oriented Programming project that m
 4. **ParkingLot** — Manages parking spaces and active tickets.
 5. **ParkingFeeCalculator** — Calculates parking fees.
 
-## Technologies
-
-* C#
-* .NET
-* Object-Oriented Programming (OOP)
-* Visual Studio
 
 
